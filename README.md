@@ -3,4 +3,4 @@ Credit to [snap.berkeley.edu](https://snap.berkeley.edu) for making SnapForks po
 
 Thanks to people that have contributed on SnapForks :).
 
-[Disclaimer](/tree/master/Disclaimer.md)
+[Disclaimer](Disclaimer.md)
